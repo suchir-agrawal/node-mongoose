@@ -1,0 +1,23 @@
+{
+  "name": "node-mongoose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suchir-agrawal/node-mongoose.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suchir-agrawal/node-mongoose/issues"
+  },
+  "homepage": "https://github.com/suchir-agrawal/node-mongoose#readme",
+  "dependencies": {
+    "mongoose": "^5.11.18"
+  }
+}
